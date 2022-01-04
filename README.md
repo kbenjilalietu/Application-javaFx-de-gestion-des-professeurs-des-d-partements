@@ -1,6 +1,6 @@
 # Application-javaFx-de-gestion-des-professeurs-des-départements
 TP java Réalisation d'une application javaFx de gestion des professeurs des départements.
-L’objectif et de créer une application Java permettant d’effectuer les opérations suivantes : 
+L’objectif est de créer une application Java permettant d’effectuer les opérations suivantes : 
 1.	Gérer les professeurs : 
 - Accueil de l'application 
 ![accueil](https://user-images.githubusercontent.com/81255636/147999146-1768596f-45a6-4896-9c0e-a4a765b3a9f3.PNG)
